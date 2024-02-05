@@ -16,8 +16,7 @@
     },
     "enableRenovate": true,
     "extends": [
-      "config:base",
-      "github>whitesource/merge-confidence:beta",
+      "config:recommended",
       "github>mend-toolkit/mend-examples//Repo-Integration/Renovate/smart-merge"
     ]
   }
